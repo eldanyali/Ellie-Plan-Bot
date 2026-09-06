@@ -1,6 +1,6 @@
 # Ellie 🌱
 
-## Plan. Learn. Grow.
+## Plan, Learn, Grow.
 
 Ellie is a Telegram personal assistant bot designed to help users with:
 
